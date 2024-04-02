@@ -1,0 +1,22 @@
+header {
+  background-color: aliceblue;
+}
+
+main {
+  background-color: aquamarine;
+}
+
+#pufferfish {
+  background-color: blue;
+  color: white;
+}
+
+#katakuri {
+  background-color: rgb(139, 41, 41);
+  color: white;
+}
+
+#onion {
+  background-color: rgba(145, 47, 47, 0.726);
+  color: white;
+}
